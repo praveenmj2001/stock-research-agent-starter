@@ -6,7 +6,8 @@
  * returns a receipt (taskRunId). GET polls that root task run for status / memo.
  *
  * Env: WORKFLOW_SERVICE_SLUG = Dashboard Workflow Slug only (not slug/taskName).
- * Env: RENDER_API_KEY = API key used by the Render SDK client.
+ * Env: RENDER_API_KEY = 48a05af2c2b9fce3df3c54116aabca5d
+ *  API key used by the Render SDK client.
  */
 
 import express from "express"
