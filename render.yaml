@@ -5,11 +5,11 @@
 # Before deploying a fork, namespace resources:
 #   Actions → "Setup attendee Blueprint names" → Run workflow
 #   or: npm run setup -- your-github-username
-# That sets the project to {username}-cyc-workshop.
+# That sets the project to praveenmj2001-cyc-workshop.
 # Then deploy from the Dashboard (New → Blueprint) or CLI.
 
 projects:
-  # After setup: {username}-cyc-workshop
+  # After setup: praveenmj2001-cyc-workshop
   - name: cyc-workshop
     environments:
       - name: production
